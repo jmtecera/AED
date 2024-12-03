@@ -6,6 +6,7 @@
 *.lo
 *.o
 *.obj
+*.bin
 
 # Precompiled Headers
 *.gch
@@ -33,3 +34,7 @@
 
 # Extras
 /cmake-build-debug
+/cmake-build-release
+/debug
+.idea
+.vscode
