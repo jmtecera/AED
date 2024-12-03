@@ -1,12 +1,11 @@
 <div align="center">
   <img src="https://cimec.conicet.gov.ar/wp-content/uploads/sites/114/2022/06/CIMEC_CONICET-UNL.png">
 
-
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-
 <h1>Data Structures and Algorithms</h1>
 
 </div>
+
+[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
 The AED repository is a collection of programming exercises and solutions, serving as a practical record of concepts learned in data structures and algorithms. This repository is designed to support individual academic projects at FICH - UNL and incorporates evaluating code from CIMEC - UNL.
 ## Run Locally
