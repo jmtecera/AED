@@ -24,20 +24,20 @@ Navigate to the Project Directory
 
 ### For GTP-type files directories
 
-| Action                | Command         | Description                       |
-| :---------------------| :---------------| :---------------------------------|
-| Build [**required**]  | `make build`    | Compiles all exercises.           |
-| Run [**required**]    | `make run [ex]` | Runs specific exercise.           |
-| Clean [*optional*]    | `make clean`    | Deletes all build files in the directory.   |
+| Action                | Command         | Description                               |
+| :---------------------|:----------------|:------------------------------------------|
+| Build [**required**]  | `make build`    | Compiles all exercises.                   |
+| Run [**required**]    | `make run-[ex]` | Runs specific exercise.                   |
+| Clean [*optional*]    | `make clean`    | Deletes all build files in the directory. |
 
 
 ### For TPL-type files directories
 
-| Action                | Command         | Description                       |
-| :---------------------| :---------------| :---------------------------------|
-| Build [**required**]  | `make build`    | Compiles and automatically runs the exercise.              |
-| Run   [*optional*]    | `make run` | Runs the current exercise.            |
-| Clean [*optional*]    | `make clean`    | Deletes all build files in the directory.   |
+| Action                | Command      | Description                                             |
+| :---------------------|:-------------|:--------------------------------------------------------|
+| Build [**required**]  | `make build` | Compiles and automatically runs the exercise.           |
+| Run   [*optional*]    | `make run`   | Runs the current exercise.                              |
+| Clean [*optional*]    | `make clean` | Deletes all build files in the directory.               |
 
 
 ## Tests

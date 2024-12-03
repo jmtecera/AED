@@ -14,11 +14,12 @@ build: $(TARGETS)
 	$(CXX) $(CXXFLAGS) -o debug/$@ $^
 
 run:
-	@echo "Usage: make run TARGET=<binary_name>"
+	@echo "Usage: make run <ex>"
 	@exit 1
 
 run-%: debug/%.bin
-	./debug/$*
+	@echo "Running ./debug/$*.bin"
+	./debug/$*.bin
 
 # make clean
 clean:
