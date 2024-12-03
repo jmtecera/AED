@@ -1,5 +1,5 @@
 #include <list>
-#include "utils.cpp"
+#include "utils.hpp"
 
 std::list<int> concatA(std::list<int> &L1, std::list<int> &L2) {
     std::list<int> L;

@@ -1,6 +1,6 @@
 #include <iostream>
 #include <list>
-#include "utils.cpp"
+#include "utils.hpp"
 
 void invert(std::list<int> &L) {
     auto it1 = L.begin();

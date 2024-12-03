@@ -1,5 +1,5 @@
 #include <list>
-#include "utils.cpp"
+#include "utils.hpp"
 
 void junta(std::list<int> &L, int c) {
     auto it = L.begin();
