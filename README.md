@@ -1,7 +1,7 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./images/cimec_dark.png">
-    <img src="./images/cimec_light.png">
+    <source media="(prefers-color-scheme: dark)" srcset="./images/cimec_light.png">
+    <img src="./images/cimec_dark.png">
   </picture>
 
 <h1>Data Structures and Algorithms</h1>
