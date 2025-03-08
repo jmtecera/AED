@@ -34,7 +34,9 @@
 
 # Extras
 /cmake-build-debug
+/cmake-build-default
 /cmake-build-release
 /debug
 .idea
 .vscode
+.DS_Store

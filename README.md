@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://cimec.conicet.gov.ar/wp-content/uploads/sites/114/2022/06/CIMEC_CONICET-UNL.png">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./images/cimec_dark.png">
+    <img src="./images/cimec_light.png">
+  </picture>
 
 <h1>Data Structures and Algorithms</h1>
 
